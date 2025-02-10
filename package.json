@@ -2,7 +2,7 @@
   "engines": {
     "node": "v22.11.0"
   },
-  "name": "Airbnb clone",
+  "name": "project",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
